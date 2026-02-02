@@ -20,3 +20,5 @@ MANIFEST
 .cache
 __pycache__/
 venv/
+documents.txt
+faiss_index.idx
